@@ -1,0 +1,70 @@
+.hani{
+    
+    background-color:lightsalmon;
+    height:600px;
+    width:100%;
+}
+.hani1{
+    height:600px;
+    width:100%;
+    background-color:grey;
+}
+.ravi-slider
+{
+    background-color: rgba(0,0,0,0.7);
+    padding-top:25%;
+    top:0%;
+    left:0%;
+    height:100%;
+    width:100%;
+
+}
+.a{
+    height: 10px;
+    width:100%;
+   
+}
+.b{
+    font-family:cursive;
+}
+.c{
+    font-size: 25px;
+   
+    color:brown;
+}
+.d{
+    height: 50px;
+    width:100%;
+   
+}
+.row5
+{
+    height:100%;
+    background-image:url('../images/5.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    color:white;
+    background-attachment:fixed;
+    color:black;
+
+
+}
+.row4
+{
+
+    height:700px;
+    background-image:url('../images/5.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    color:white;
+    background-attachment:fixed;
+
+}
+.e{
+    height:300px;
+    width:100%;
+    background-color:burlywood;
+}
+#e.li{
+    list-style-type: none;
+}
